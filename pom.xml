@@ -8,6 +8,7 @@
     <artifactId>adafruit-motor-hat</artifactId>
     <description>Port of Python library to Java using Pi4J</description>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <properties>
         <pi4j.version>1.0</pi4j.version>

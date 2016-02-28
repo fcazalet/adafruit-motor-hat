@@ -12,16 +12,6 @@ import java.io.IOException;
  * Created by Florian on 27/02/2016.
  */
 public class AdafruitMotorHat {
-    public static int FORWARD = 1;
-    public static int BACKWARD = 2;
-    public static int BRAKE = 3;
-    public static int RELEASE = 4;
-
-    private int SINGLE = 1;
-    private int DOUBLE = 2;
-    private int INTERLEAVE = 3;
-    private int MICROSTEP = 4;
-
     private I2CDevice i2CDevice;
     private PWM pwm;
     private int address = 0x60;

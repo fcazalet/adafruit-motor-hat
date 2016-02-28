@@ -78,7 +78,7 @@ public class PWM {
         write8(__PRESCALE, (int) Math.floor(prescale));
         write8(__MODE1, oldmode);
         try {
-            wait(5); // wait 5 ms
+            Thread.sleep(5); // wait 5 ms
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
