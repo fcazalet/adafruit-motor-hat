@@ -1,7 +1,9 @@
-package com.bb8log.raspberrypi.motorhat.motor;
+package com.bb8log.raspberrypi.adafruitmotorhat.motor.dc;
 
-import com.bb8log.raspberrypi.motorhat.adafruit.AdafruitMotorHat;
-import com.bb8log.raspberrypi.motorhat.exception.MotorException;
+import com.bb8log.raspberrypi.adafruitmotorhat.AdafruitMotorHat;
+import com.bb8log.raspberrypi.adafruitmotorhat.exception.MotorException;
+import com.bb8log.raspberrypi.adafruitmotorhat.motor.AbstractMotor;
+import com.bb8log.raspberrypi.adafruitmotorhat.motor.MotorCommand;
 
 /**
  * Created by Florian on 27/02/2016.

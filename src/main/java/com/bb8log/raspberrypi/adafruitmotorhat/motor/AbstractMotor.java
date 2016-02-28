@@ -1,6 +1,6 @@
-package com.bb8log.raspberrypi.motorhat.motor;
+package com.bb8log.raspberrypi.adafruitmotorhat.motor;
 
-import com.bb8log.raspberrypi.motorhat.adafruit.AdafruitMotorHat;
+import com.bb8log.raspberrypi.adafruitmotorhat.AdafruitMotorHat;
 
 /**
  * Created by Florian on 28/02/2016.

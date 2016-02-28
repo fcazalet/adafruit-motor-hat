@@ -1,4 +1,4 @@
-package com.bb8log.raspberrypi.motorhat.motor;
+package com.bb8log.raspberrypi.adafruitmotorhat.motor.dc;
 
 /**
  * Created by Florian on 27/02/2016.

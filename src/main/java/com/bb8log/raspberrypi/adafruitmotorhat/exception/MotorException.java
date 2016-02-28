@@ -1,4 +1,4 @@
-package com.bb8log.raspberrypi.motorhat.exception;
+package com.bb8log.raspberrypi.adafruitmotorhat.exception;
 
 /**
  * Created by Florian on 27/02/2016.

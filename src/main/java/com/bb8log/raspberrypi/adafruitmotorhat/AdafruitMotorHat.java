@@ -1,8 +1,8 @@
-package com.bb8log.raspberrypi.motorhat.adafruit;
+package com.bb8log.raspberrypi.adafruitmotorhat;
 
-import com.bb8log.raspberrypi.motorhat.exception.MotorException;
-import com.bb8log.raspberrypi.motorhat.motor.DCMotor;
-import com.bb8log.raspberrypi.motorhat.motor.StepperMotor;
+import com.bb8log.raspberrypi.adafruitmotorhat.exception.MotorException;
+import com.bb8log.raspberrypi.adafruitmotorhat.motor.dc.DCMotor;
+import com.bb8log.raspberrypi.adafruitmotorhat.motor.stepper.StepperMotor;
 import com.pi4j.io.i2c.I2CBus;
 import com.pi4j.io.i2c.I2CDevice;
 
