@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/motor-hat-control.iml" filepath="$PROJECT_DIR$/motor-hat-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adafruit-motor-hat.iml" filepath="$PROJECT_DIR$/adafruit-motor-hat.iml" />
     </modules>
   </component>
 </project>

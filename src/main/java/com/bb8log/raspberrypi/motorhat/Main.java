@@ -18,7 +18,7 @@ public class Main {
         DCMotor dcMotor = hat.getDcMotor(1);
         dcMotor.setSpeed(100);
         try {
-            Thread.sleep(2000);                 //1000 milliseconds is one second.
+            Thread.sleep(2000); //1000 milliseconds is one second.
         } catch (InterruptedException ex) {
             Thread.currentThread().interrupt();
         }
